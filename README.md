@@ -15,6 +15,6 @@ A fast, arcade survivor game with infinite waves, weapon upgrades and zero ads. 
 
 ## Find me
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UCga-vXgvHZjAJmieuwvICHg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCga-vXgvHZjAJmieuwvICHg)
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/es/app/hariboo/id6758705633)
 [![Website](https://img.shields.io/badge/beachlab.org-000?style=for-the-badge&logo=safari&logoColor=white)](https://beachlab.org/apps/hariboo/)
