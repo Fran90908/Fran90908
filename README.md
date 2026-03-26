@@ -5,6 +5,7 @@ I'm a student and indie game developer. I love building things — from games to
 ## What I do
 
 - **Game Development** — I build games with Godot and Swift. My latest project, [Hariboo Madness](https://apps.apple.com/es/app/hariboo/id6758705633), is live on the App Store for iPhone, iPad and Mac.
+- **YouTube** — I make videos on my [YouTube channel](https://www.youtube.com/channel/UCga-vXgvHZjAJmieuwvICHg).
 - **Always Building** — I'm constantly working on side projects, experimenting with new ideas and learning by doing.
 
 ## Hariboo Madness
