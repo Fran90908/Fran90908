@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Fran
 
-<!--
-**Fran90908/Fran90908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and indie game developer. I love building things — from games to websites to whatever catches my attention next.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Game Development** — I build games with Godot and Swift. My latest project, [Hariboo Madness](https://apps.apple.com/es/app/hariboo/id6758705633), is live on the App Store for iPhone, iPad and Mac.
+- **Always Building** — I'm constantly working on side projects, experimenting with new ideas and learning by doing.
+
+## Hariboo Madness
+
+A fast, arcade survivor game with infinite waves, weapon upgrades and zero ads. Built from scratch, available for free.
+
+[![App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/es/app/hariboo/id6758705633)
+
+## Find me
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UCga-vXgvHZjAJmieuwvICHg)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/es/app/hariboo/id6758705633)
+[![Website](https://img.shields.io/badge/beachlab.org-000?style=for-the-badge&logo=safari&logoColor=white)](https://beachlab.org/apps/hariboo/)
